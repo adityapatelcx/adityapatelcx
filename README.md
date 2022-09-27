@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in India (currently Remote).
+#### I'm a Full-Stack Developer working in Bengaluru, India.
 
 - 🏢 I'm currently working at **CX100**
 - 🌱 Learning all about **DSA and Open Source**
