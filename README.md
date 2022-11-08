@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer working in Bengaluru, India.
 
 - 🏢 I'm currently working at **CX100**
-- 🌱 Learning all about **DSA and Open Source**
+- 🌱 Learning all about **GoLang And DSA**
 - 🌍 My recent project is **DSA Questions Tracker**
 - ⚡️ Fun fact: I can deadlift 150kgs!
 - ⚙️ I have experience with: <br/>
